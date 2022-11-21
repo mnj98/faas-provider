@@ -1,4 +1,4 @@
-module github.com/openfaas/faas-provider
+module github.com/mnj98/faas-provider
 
 go 1.17
 
